@@ -1,0 +1,1 @@
+In this project, we are given data about users who have visited an e-commerce site. The project goals are to predict user conversions based on user profiles and make recommendations for the proeduct/marketing team on how to improve conversion rate.
